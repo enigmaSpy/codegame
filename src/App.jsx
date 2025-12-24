@@ -108,8 +108,8 @@ function App() {
           <Confetti />
           <div className="fixed inset-0 bg-black/60 backdrop-blur-sm z-40 flex items-center justify-center">
             <div className="text-center">
-              <div className="text-8xl font-bold text-white mb-8 animate-bounce">
-                100
+              <div className="text-8xl font-bold text-white mb-8 ">
+               KOD: 100
               </div>
               <div className="text-3xl font-semibold text-white mb-6">
                 🎉 Gratulacje! 🎉
